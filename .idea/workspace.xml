@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="" />
+    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="首页">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +35,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kgjGTtfdc6snV0UGW3j4DAuybh" />
   <component name="ProjectViewState">
@@ -44,11 +67,35 @@
       <updated>1606129032697</updated>
       <workItem from="1606129033853" duration="7027000" />
       <workItem from="1606186911250" duration="547000" />
+      <workItem from="1606188153137" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="首页">
+      <created>1606188226481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606188226481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首页" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2483" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606129586717">
@@ -67,6 +114,10 @@
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="2228" y="94" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606129614063" />
+    <state x="2312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606188378278">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2312" y="183" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606188378278" />
     <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606187145665">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
