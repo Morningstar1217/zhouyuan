@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,13 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="增加idea">
-      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/joinUs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/join_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/joinUs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +41,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="SCSS File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,11 +51,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kgjGTtfdc6snV0UGW3j4DAuybh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -75,6 +84,7 @@
       <workItem from="1606186911250" duration="547000" />
       <workItem from="1606188153137" duration="360000" />
       <workItem from="1606211474272" duration="7736000" />
+      <workItem from="1606224553553" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="首页">
       <created>1606188226481</created>
@@ -109,6 +119,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="首页" />
     <MESSAGE value="增加idea" />
     <option name="LAST_COMMIT_MESSAGE" value="增加idea" />
@@ -134,13 +145,22 @@
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="2312" y="183" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606188476877" />
+    <state x="638" y="261" key="cloudConfig.SelfSettingsDialog" timestamp="1606224825942">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="638" y="261" key="cloudConfig.SelfSettingsDialog/0.0.1536.834@0.0.1536.834" timestamp="1606224825942" />
+    <state x="308" y="79" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606225195105">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="308" y="79" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1606225195105" />
     <state x="2422" y="181" width="595" height="538" key="find.popup" timestamp="1606217956533">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="2422" y="181" width="595" height="538" key="find.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606217956533" />
-    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606221903965">
-      <screen x="1920" y="0" width="1600" height="870" />
+    <state x="444" y="182" width="672" height="650" key="search.everywhere.popup" timestamp="1606226416477">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="444" y="182" width="672" height="650" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606226416477" />
     <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606221903965" />
   </component>
 </project>

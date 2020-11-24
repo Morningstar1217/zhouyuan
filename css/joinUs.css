@@ -1,0 +1,83 @@
+.content {
+    position: relative;
+    width: 1440px;
+    height: 908px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.content .title-wrap {
+    width: 484px;
+    margin: 50px auto;
+    justify-content: space-around;
+}
+
+.content .title-wrap .text {
+    text-align: center;
+}
+
+.content .title-wrap .text .main-title {
+    font-size: 30px;
+    color: #E30112;
+}
+
+.content .title-wrap .text .sub-title {
+    font-size: 18px;
+    color: #333;
+}
+
+.content .bg2 {
+    position: absolute;
+    bottom: -125px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 752px;
+    height: 794px;
+}
+
+.content .small-content {
+    position: absolute;
+    width: 448px;
+}
+
+.content .small-content .btn {
+    width: 160px;
+    height: 50px;
+    margin: 0 auto 20px;
+    background: linear-gradient(135deg, #FF3D00 0%, #E30112 100%);
+    opacity: 1;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.content .small-content .text-content {
+    font-size: 16px;
+    color: #666;
+}
+
+.content .small-content.small-content-1 {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.content .small-content.small-content-2 {
+    left: 60px;
+    top: 380px;
+}
+
+.content .small-content.small-content-3 {
+    left: 60px;
+    bottom: 180px;
+}
+.content .small-content.small-content-4 {
+    right: 60px;
+    top: 380px;
+}
+
+.content .small-content.small-content-5 {
+    right: 60px;
+    bottom: 180px;
+}
