@@ -23,4 +23,11 @@
 </div>
 </body>
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.menu-list').click(function () {
+            $(this).addClass('selected').siblings('.menu-list').removeClass('selected')
+        })
+    })
+</script>
 </html>

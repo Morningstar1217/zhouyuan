@@ -15,3 +15,11 @@
     white-space: nowrap;
     text-overflow: ellipsis;
 }
+
+.cp {
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}

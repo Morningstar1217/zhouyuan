@@ -19,8 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="首页">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="增加idea">
+      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +73,8 @@
       <updated>1606129032697</updated>
       <workItem from="1606129033853" duration="7027000" />
       <workItem from="1606186911250" duration="547000" />
-      <workItem from="1606188153137" duration="305000" />
+      <workItem from="1606188153137" duration="360000" />
+      <workItem from="1606211474272" duration="7736000" />
     </task>
     <task id="LOCAL-00001" summary="首页">
       <created>1606188226481</created>
@@ -76,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606188226481</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加idea">
+      <created>1606188474299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606188474299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,10 +106,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首页" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页" />
+    <MESSAGE value="增加idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2483" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606129586717">
@@ -110,17 +126,21 @@
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="2500" y="205" key="FileChooserDialogImpl/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606177252099" />
-    <state x="2228" y="94" key="SettingsEditor" timestamp="1606129614063">
+    <state x="2228" y="94" key="SettingsEditor" timestamp="1606221904842">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
-    <state x="2228" y="94" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606129614063" />
-    <state x="2312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606188378278">
+    <state x="2228" y="94" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606221904842" />
+    <state x="2312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606188476877">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
-    <state x="2312" y="183" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606188378278" />
-    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606187145665">
+    <state x="2312" y="183" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606188476877" />
+    <state x="2422" y="181" width="595" height="538" key="find.popup" timestamp="1606217956533">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
-    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606187145665" />
+    <state x="2422" y="181" width="595" height="538" key="find.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606217956533" />
+    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606221903965">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606221903965" />
   </component>
 </project>
