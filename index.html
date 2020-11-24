@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>周原集团</title>
+    <link rel="stylesheet" href="./css/common.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+</head>
+<body>
+<!--头部-->
+<iframe src="header.html" class="header"></iframe>
+<!--banner-->
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <img src="./imgs/banner1.png" alt="">
+        </div>
+        <div class="swiper-slide">
+            <img src="./imgs/banner1.png" alt="">
+        </div>
+        <div class="swiper-slide">
+            <img src="./imgs/banner1.png" alt="">
+        </div>
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+</div>
+<!--内容部分-->
+<div class="content">
+    <!--内容标题-->
+    <div class="title-wrap fl-row">
+        <div class="line"></div>
+        <div class="text">
+            <div class="main-title">核心业务</div>
+            <div class="sub-title">CORE BISINESS</div>
+        </div>
+        <div class="line"></div>
+    </div>
+    <!--内容分页-->
+    <div class="title-menu fl-row">
+        <div class="menu-list selected">物业管理
+            <img src="./imgs/red_arrow.png" alt=""></div>
+        <div class="line"></div>
+        <div class="menu-list ">商业运营
+            <img src="./imgs/red_arrow.png" alt=""></div>
+        <div class="line"></div>
+        <div class="menu-list">资产管理
+            <img src="./imgs/red_arrow.png" alt=""></div>
+        <div class="line"></div>
+        <div class="menu-list">智慧空间
+            <img src="./imgs/red_arrow.png" alt=""></div>
+        <div class="line"></div>
+        <div class="menu-list">大健康产业
+            <img src="./imgs/red_arrow.png" alt=""></div>
+    </div>
+    <!--大图内容-->
+    <div class="img-content">
+        <div class="red-content">
+            <div class="title">物业管理</div>
+            <div class="sub-title">ESTATE MANAGEMENT</div>
+            <div class="menu-wrap">
+                <div class="menu-list fl-row">
+                    <div class="index">01</div>
+                    <div>安全管理</div>
+                </div>
+                <div class="menu-list fl-row">
+                    <div class="index">02</div>
+                    <div>设施管理</div>
+                </div>
+                <div class="menu-list fl-row">
+                    <div class="index">03</div>
+                    <div>环境管理</div>
+                </div>
+                <div class="menu-list fl-row">
+                    <div class="index">04</div>
+                    <div>生活服务</div>
+                </div>
+                <div class="menu-list fl-row">
+                    <div class="index">05</div>
+                    <div>社区文化</div>
+                </div>
+            </div>
+            <div class="all">查看全部 ></div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: {
+            el: '.swiper-pagination'
+        },
+        loop: true
+    })
+</script>
+</html>

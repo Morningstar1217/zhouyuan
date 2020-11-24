@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kgjGTtfdc6snV0UGW3j4DAuybh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EDZ\Documents\zhouyuan" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="" />
+      <created>1606129032697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606129032697</updated>
+      <workItem from="1606129033853" duration="7027000" />
+      <workItem from="1606186911250" duration="547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2483" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606129586717">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2483" y="249" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606129586717" />
+    <state x="2385" y="224" key="EditFileWatcherDialog" timestamp="1606129617206">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2385" y="224" key="EditFileWatcherDialog/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606129617206" />
+    <state x="2500" y="205" key="FileChooserDialogImpl" timestamp="1606177252099">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2500" y="205" key="FileChooserDialogImpl/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606177252099" />
+    <state x="2228" y="94" key="SettingsEditor" timestamp="1606129614063">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2228" y="94" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606129614063" />
+    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606187145665">
+      <screen x="1920" y="0" width="1600" height="870" />
+    </state>
+    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606187145665" />
+  </component>
+</project>

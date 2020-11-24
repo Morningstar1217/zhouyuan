@@ -1,0 +1,48 @@
+body {
+    overflow: hidden;
+}
+
+.header-wrap {
+    height: 109px;
+    padding: 0 50px;
+    justify-content: space-between;
+}
+
+.header-wrap .logo-wrap .logo1 {
+    width: 191px;
+    height: 51px;
+}
+
+.header-wrap .logo-wrap .logo2 {
+    width: 225px;
+    height: 28px;
+    margin-left: 47px;
+}
+
+.header-wrap .menu-wrap {
+    min-width: 670px;
+    height: 100%;
+    justify-content: space-around;
+}
+
+.header-wrap .menu-wrap .menu-list {
+    font-size: 18px;
+    /*margin-right: 47px;*/
+    cursor: pointer;
+}
+
+.header-wrap .menu-wrap .menu-list.selected {
+    position: relative;
+    color: #E30112;
+}
+
+.header-wrap .menu-wrap .menu-list.selected::after {
+    content: '';
+    position: absolute;
+    bottom: -43px;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background-color: #E60012;
+    cursor: default;
+}
