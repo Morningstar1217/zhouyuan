@@ -4,6 +4,25 @@
     list-style: none;
 }
 
+a:link {
+    text-decoration: none;
+    color: #000
+}
+
+　　 a:active {
+    text-decoration: blink
+}
+
+　　 a:hover {
+    text-decoration: underline;
+    color: red
+}
+
+　　 a:visited {
+    text-decoration: none;
+    color: green
+}
+
 iframe {
     border: none;
     vertical-align: middle;
@@ -96,6 +115,6 @@ iframe {
     vertical-align: middle;
 }
 
-.tab-wrap .tab-content .tab-content-path div{
+.tab-wrap .tab-content .tab-content-path div {
     margin-left: 8px;
 }
