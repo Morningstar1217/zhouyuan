@@ -33,7 +33,10 @@ body {
 
 .header-wrap .menu-wrap .menu-list.selected {
     position: relative;
-    color: #E30112;
+}
+
+.header-wrap .menu-wrap .menu-list.selected a {
+    color: #E30112 !important;
 }
 
 .header-wrap .menu-wrap .menu-list.selected::after {

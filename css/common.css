@@ -6,21 +6,22 @@
 
 a:link {
     text-decoration: none;
-    color: #000
+    color: #000;
 }
 
-　　 a:active {
-    text-decoration: blink
+a:active {
+    text-decoration: blink;
+    color: #000;
 }
 
-　　 a:hover {
-    text-decoration: underline;
-    color: red
-}
-
-　　 a:visited {
+a:hover {
     text-decoration: none;
-    color: green
+    color: #E30112;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000;
 }
 
 iframe {

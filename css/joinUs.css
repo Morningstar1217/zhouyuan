@@ -6,6 +6,11 @@
     overflow: hidden;
 }
 
+.content-1 {
+    height: auto;
+    padding: 20px 0 120px;
+}
+
 .content .title-wrap {
     width: 484px;
     margin: 50px auto;
@@ -72,6 +77,7 @@
     left: 60px;
     bottom: 180px;
 }
+
 .content .small-content.small-content-4 {
     right: 60px;
     top: 380px;
@@ -80,4 +86,93 @@
 .content .small-content.small-content-5 {
     right: 60px;
     bottom: 180px;
+}
+
+.content .title-menu {
+    width: 320px;
+    margin: 80px auto;
+    justify-content: space-between;
+}
+
+.content .title-menu .menu-list {
+    font-size: 28px;
+    color: #666;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.content .title-menu .menu-list img {
+    display: none;
+}
+
+.content .title-menu .menu-list.selected {
+    color: #E30112;
+    position: relative;
+}
+
+.content .title-menu .menu-list.selected img {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -30px;
+    transform: translateX(-50%);
+    width: 112px;
+    height: 18px;
+    cursor: default;
+}
+
+.content .title-menu .line {
+    width: 1px;
+    height: 28px;
+    background-color: #D9D9D9;
+}
+
+.content .people-wrap {
+    width: 1066px;
+    margin: 0 auto;
+}
+
+.content .people-wrap .people-title {
+    margin: 50px auto;
+    padding: 10px 0;
+    width: 180px;
+    text-align: center;
+    border-bottom: 6px solid #E30112;
+    font-size: 30px;
+    color: #333;
+}
+
+.content .people-wrap .peoples .people-list {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.content .people-wrap .peoples .people-list .top {
+    justify-content: space-between;
+}
+
+.content .people-wrap .peoples .people-list .top .first img {
+    width: 20px;
+    height: 19px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.content .people-wrap .peoples .people-list .top .end img {
+    width: 16px;
+    height: 9px;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+
+.content .people-wrap .peoples .people-list .bottom {
+    width: 643px;
+    margin-top: 30px;
+}
+
+.content .people-wrap .peoples .people-list .bottom .text {
+    color: #999;
+    margin-top: 20px;
+    line-height: 32px;
 }

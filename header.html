@@ -12,11 +12,13 @@
         <img src="./imgs/logo1.png" class="logo1" alt="">
         <img src="./imgs/logo2.png" class="logo2" alt="">
     </div>
-    <div class="menu-wrap fl-row">
-        <div class="menu-list selected">
+    <div class="menu-wrap fl-row" id="menu-wrap">
+        <div class="menu-list">
             <a href="index.html" target="_parent">首页</a>
         </div>
-        <div class="menu-list">关于我们</div>
+        <div class="menu-list">
+            <a href="aboutUs.html" target="_parent">关于我们</a>
+        </div>
         <div class="menu-list">新闻中心</div>
         <div class="menu-list">业务布局</div>
         <div class="menu-list">
@@ -29,6 +31,14 @@
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
     $(function () {
+        let url = window.parent.location.href
+        if (url.indexOf('index') !== -1) {
+            $('.menu-list:eq(0)').addClass('selected').siblings('.menu-list').removeClass('.selected')
+        } else if (url.indexOf('joinUs') !== -1) {
+            $('.menu-list:eq(4)').addClass('selected').siblings('.menu-list').removeClass('.selected')
+        } else if (url.indexOf('aboutUs') !== -1) {
+            $('.menu-list:eq(1)').addClass('selected').siblings('.menu-list').removeClass('.selected')
+        }
         $('.menu-list').click(function () {
             $(this).addClass('selected').siblings('.menu-list').removeClass('selected')
         })
