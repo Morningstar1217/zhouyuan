@@ -22,23 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="跳转">
-      <change afterPath="$PROJECT_DIR$/aboutUs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/aboutUs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/about_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/head2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/pv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/time.png" afterDir="false" />
+    <list default="true" id="12d56e7f-eea4-4921-bb35-66dd39caf9b9" name="Default Changelist" comment="关于我们">
+      <change afterPath="$PROJECT_DIR$/css/newsCenter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newsCenter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/joinUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/joinUs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/aboutUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aboutUs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/joinUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/joinUs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +82,8 @@
       <workItem from="1606188153137" duration="360000" />
       <workItem from="1606211474272" duration="7736000" />
       <workItem from="1606224553553" duration="2721000" />
-      <workItem from="1606301519218" duration="7222000" />
+      <workItem from="1606301519218" duration="7276000" />
+      <workItem from="1606349796901" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="首页">
       <created>1606188226481</created>
@@ -129,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606263603903</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="关于我们">
+      <created>1606308842185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606308842185</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +151,8 @@
     <MESSAGE value="增加idea" />
     <MESSAGE value="修改" />
     <MESSAGE value="跳转" />
-    <option name="LAST_COMMIT_MESSAGE" value="跳转" />
+    <MESSAGE value="关于我们" />
+    <option name="LAST_COMMIT_MESSAGE" value="关于我们" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2483" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606129586717">
@@ -176,10 +175,10 @@
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="2228" y="94" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606221904842" />
-    <state x="2312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606263606914">
+    <state x="2312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606308844668">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
-    <state x="2312" y="183" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606263606914" />
+    <state x="2312" y="183" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606308844668" />
     <state x="638" y="261" key="cloudConfig.SelfSettingsDialog" timestamp="1606224825942">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -192,10 +191,10 @@
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="2422" y="181" width="595" height="538" key="find.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606217956533" />
-    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606307619787">
+    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1606350246722">
       <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="444" y="182" width="672" height="650" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606226416477" />
-    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606307619787" />
+    <state x="2383" y="190" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@1920.0.1600.870" timestamp="1606350246722" />
   </component>
 </project>
